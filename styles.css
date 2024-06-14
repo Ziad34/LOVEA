@@ -1,0 +1,152 @@
+html {
+    background-color: chartreuse;
+    background-image: url(./background.jpg);
+}
+
+ 
+h1
+{
+  font-size: 32px;
+  text-shadow: -1px -1px #0c0, 1px 1px #060, -3px 0 4px #000;
+  font-family:Arial, Helvetica, sans-serif;
+  font-style: oblique;
+  color: #090;
+  font-weight:lighter;
+  -moz-box-shadow: 2px 2px 6px #888;  
+  -webkit-box-shadow: 2px 2px 6px #888;  
+  box-shadow:2px 2px 6px #888;  
+  text-align:center;
+  display:block;
+}
+
+
+.junior {
+    font-style: italic;
+    font-weight: bolder;
+}
+
+#jk {
+  margin-left: 406px;
+}
+
+#bom {
+
+text-align: center;
+
+}
+
+#vr {
+  width: 1px;
+  height: 400px;
+  background-color: rgb(133, 0, 0);
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: auto;
+ position: relative;
+ bottom: 500px;
+}
+
+video{
+
+  position: relative;
+  left: 1550px;
+  bottom: 950px;
+}
+
+#kl {
+  position: relative;
+  left: 1000px;
+  bottom: 1450px;
+}
+
+#bowl {
+  height: 400px;
+  position: relative;
+  left: 1000px;
+  bottom: 1460px;
+}
+
+#peach {
+
+position: relative;
+top: 700px;
+right: 900px;
+
+}
+
+#man {
+  position: relative;
+  bottom: 1400px;
+  left: 350px;
+}
+
+#silly {
+  
+  position: relative;
+  bottom: 1700px;
+  left: 1300px;
+}
+
+#dumb {
+  position: relative;
+  bottom: 1700px;
+  left: 500px;
+}
+
+#exams {
+  position: relative;
+  bottom: 1600px;
+  right: 50px;
+
+}
+
+ul{
+position: relative;
+bottom: 1200px;
+right: 20px;
+
+}
+
+#mango {
+  position: relative;
+  bottom: 1850px;
+  left: 1025px;
+
+}
+
+#amo {
+  position: relative;
+  bottom: 2250px;
+  left: 1400px;
+}
+
+ol{
+
+  position: relative;
+  bottom: 1900px;
+  left: 1500px;
+}
+ #whole{
+    position: relative;
+    bottom: 1900px;
+    left: 1500px;
+    text-decoration: wavy;
+
+ }
+
+ h4{
+  position: relative;
+  bottom: 1850px;
+  font-size: larger;
+  -moz-text-decoration-color: darkviolet;
+  text-decoration: wavy;
+  color:rgb(4, 139, 22);
+  font-family: cursive;
+ }
+
+ #pick {
+
+  position: relative;
+  bottom: 900px;
+  right: 500px;
+ }
